@@ -1,0 +1,35 @@
+.site-social{
+  padding: 85px 0;
+  color: $white;
+  background: $secondary-color;
+  .section-title{
+    margin-bottom: 40px;
+  }
+  @include mobile{
+    padding: 50px 0;
+  }
+  &-item{
+    @include desktop{
+      margin-bottom: 30px;
+      text-align: center;
+    }
+    &-title{
+      font-size: 20px;
+      font-weight: 300;
+    }
+    &-icon{
+      color: $white;
+      font-size: 60px;
+      margin-bottom: 0;
+      font-weight: 700;
+      &:hover{
+        color: $text-color;
+        text-decoration: none;
+        &::before{
+          transform: scaleX(1);
+          transform-origin: left;
+        }
+      }
+    }
+  }
+}
