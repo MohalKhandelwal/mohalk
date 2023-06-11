@@ -1,0 +1,77 @@
+enable        : true
+title         : "Tech Skills"
+tech_logos  :
+  - image : images/tech-stack/aws.png
+    alttext : AWS
+
+  - image : images/tech-stack/cpp.png
+    alttext : C++
+  
+  - image : images/tech-stack/docker.png
+    alttext : Docker
+
+  - image : images/tech-stack/flask.png
+    alttext : Flask
+
+  - image : images/tech-stack/gcp.png
+    alttext : GCP
+
+  - image : images/tech-stack/git.png
+    alttext : Git
+
+  - image : images/tech-stack/java.png
+    alttext : Java
+
+  - image : images/tech-stack/javascript.png
+    alttext : Javascript
+
+  - image : images/tech-stack/keras.png
+    alttext : Keras
+
+  - image : images/tech-stack/k8s.png
+    alttext : Kubernetes
+  
+  - image : images/tech-stack/matplotlib.png
+    alttext : Matplotlib
+
+  - image : images/tech-stack/mongodb.png
+    alttext : MongoDb
+
+  - image : images/tech-stack/numpy.png
+    alttext : Numpy
+
+  - image : images/tech-stack/pandas.png
+    alttext : Pandas
+
+  - image : images/tech-stack/php.png
+    alttext : PHP
+  
+  - image : images/tech-stack/plotply.png
+    alttext : Plotply
+
+  - image : images/tech-stack/python.png
+    alttext : Python
+
+  - image : images/tech-stack/pytorch.png
+    alttext : Pytorch
+
+  - image : images/tech-stack/pandas.png
+    alttext : Pandas
+
+  - image : images/tech-stack/r.png
+    alttext : R
+
+  - image : images/tech-stack/reactjs.png
+    alttext : ReactJs
+  
+  - image : images/tech-stack/seaborn.png
+    alttext : Seaborn
+
+  - image : images/tech-stack/scikitlearn.png
+    alttext : Scikit-Learn
+
+  - image : images/tech-stack/sql.png
+    alttext : SQL
+
+  - image : images/tech-stack/tensorflow.png
+    alttext : Tensorflow

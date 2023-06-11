@@ -1,0 +1,6 @@
+enable  : true
+title: "About Me"
+date: 2018-07-12T18:19:33+06:00
+heading : "I am Mohal Khandelwal. A Data Science grad student at University of Colorado Boulder."
+description : "I am broadly interested in building scalable systems. I also enjoy prototyping new ideas and building data science products. I am a course facilitator for Machine Learning and Deep Learning Courses at Coursera in association with CU Boulder. Previously I was a Software Engineer at HSBC, Data Science Intern at Sparks Foundation Startup."
+image_source: "images/portfolio-image.jpg"

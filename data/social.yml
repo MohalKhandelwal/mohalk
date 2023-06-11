@@ -1,0 +1,14 @@
+enable : true
+heading : "FIND ME ON THESE WEBSITES"
+social_item: 
+  - title: "Github"
+    url: "https://github.com/MohalKhandelwal"
+    icon: "fa fa-github"
+
+  - title: "LinkedIn"
+    url: "https://www.linkedin.com/in/mohalk/"
+    icon: "fa fa-linkedin"
+
+  - title: "Gmail"
+    url: "mailto:mokh8410@colorado.edu"
+    icon: "fa fa-envelope"

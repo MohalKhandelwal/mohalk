@@ -1,0 +1,106 @@
+enable  : true
+title   : "My Experiences and Skills"
+subtitle: "What can I do."
+
+########################### Experience ##############################
+experience:
+  enable : true
+  title : "EXPERIENCE"
+  experience_list:
+    # experience item loop
+    - name : "Course Facilitator"
+      company : "Coursera in association with University of Colorado Boulder"
+      duration : "May'23 - Present"
+      content : "• Managed and tutored 114 students for courses Introduction to Machine Learning-Supervised & Unsupervised, Introduction to 
+                  Deep Learning and Deep Learning Applications for Computer Vision including holding discussion sessions and office hours."
+
+    - name : "Software Engineer"
+      company : "HSBC"
+      duration : "September'20 - August'22"
+      content : "• Onboarded 6 new document types in D-Crest (Optical Character Recognition and Language Translation suite) using image processing and Computer Vision techniques with the accuracy of above 90% to automate the KYC process.
+                 • Decreased the turnaround time for critical bugs by 41% by re-architecting the modules that are already in production using CNN, and performed entity extraction using SpaCy and regex, widening the scope of documents by 64%
+                 • Conceptualized and devised a CI/CD pipeline for D-Crest using Jenkins and Tornado web framework, thereby minimizing the number of development defects in production.
+                 • Implemented handwritten signature detection system using YOLO model with 91% accuracy.Onboarded 6 new document types in D-Crest (Optical Character Recognition and Language Translation suite) using image processing and Computer Vision techniques with the accuracy of above 90%."
+      
+    - name : "Data Science Intern"
+      company : "Spark Foundation Startup"
+      duration : "June'20 - August'20"
+      content : "• Achieved 3X performance gain by developing new microservices with Java to import and export large amounts of data via Excel and other third-party apps. Reduced server cost by 24% compared to the legacy implementation.
+                 • Created a dashboard using SQL, and Tableau to communicate KPIs and insights and monitor business metrics for stakeholders.
+                 • Devised a proof of concept for an internal framework to build mobile applications with the web development stack - HTML, CSS and Javascript, which cut down the development time of mobile apps by 45%.
+                 • Presented findings and recommendations to senior management and stakeholders clearly and concisely."
+          
+############################### Skill #################################
+skill:
+  enable : true
+  title : "SKILL"
+  skill_list:
+    # skill item loop
+    - name : "Machine Learning"
+      percentage : "90%"
+
+    # skill item loop
+    - name : "Data Visualization"
+      percentage : "83%"      
+      
+    # skill item loop
+    - name : "Database Management"
+      percentage : "75%"
+
+    # skill item loop
+    - name : "Algorithms and Data Structures"
+      percentage : "90%"
+      
+    # skill item loop
+    - name : "DevOps"
+      percentage : "70%"
+
+
+########################### Education ##############################
+education:
+  enable : true
+  title : "EDUCATION"
+  education_list:
+    # education item loop
+    - institute : "Google Generative AI Learning Path"
+      duration : "June'23"
+
+    - institute : "University of Colorado, Boulder"
+      degree : "Master of Science in Data Science"
+      duration : "August'22 - May'24"
+      
+    - institute : "Pune Institute of Computer Technology, Pune"
+      degree : "Bachelor of Engineering in Computer Engineering"
+      duration : "August'16 - June'20"
+
+########################### Additional Expereince ##############################
+additional_experience:
+  enable : true
+  title : "ADDITIONAL EXPERIENCE"
+  experience_list:
+    # experience item loop
+    - name : "Student Assistant"
+      company : "Department of Chemistry - University of Colorado Boulder"
+      duration : "September'22 - Present"
+      
+    - name : "Student Volunteer and Member"
+      company : "PICT IEEE Student Branch (PISB)"
+      duration : "August'17 - January'19"
+      content : " • Proofread academic papers written by university staff along with mentor
+                  • Populating literature reviews and designing research methodologies with the management of ceremonies and campusevents"
+
+########################### Additional Expereince ##############################
+certification:
+  enable : true
+  title : "CERTIFICATION"
+  experience_list:
+    # experience item loop
+    - name : "Data Analysis with Tidyverse"
+      company : "Department of Chemistry - University of Colorado Boulder"
+      duration : "September'22 - Present"
+      
+    - name : "Student Volunteer and Member"
+      company : "PICT IEEE Student Branch (PISB)"
+      duration : "August'17 - January'19"
+      content : " • Proofread academic papers written by university staff along with mentor
+                  • Populating literature reviews and designing research methodologies with the management of ceremonies and campusevents"
